@@ -105,4 +105,4 @@ def get_train_loc(tipe, ligne):
 #print(get_horaire("metros", "3b", "Porte des Lilas", "R"))
 
 
-get_train_loc("metros", "11")
+#get_train_loc("metros", "11")
